@@ -1,0 +1,3 @@
+codetemplate import "C:\Users\DharmaTeja.Kolla\Downloads\MirthGitRepo-extracted\Mirth-4.5.2-Personal-main\CodeTemplates\IN1 Segment.xml" force
+codetemplate import "C:\Users\DharmaTeja.Kolla\Downloads\MirthGitRepo-extracted\Mirth-4.5.2-Personal-main\CodeTemplates\ORC segment.xml" force
+codetemplate import "C:\Users\DharmaTeja.Kolla\Downloads\MirthGitRepo-extracted\Mirth-4.5.2-Personal-main\CodeTemplates\PID Segment.xml" force

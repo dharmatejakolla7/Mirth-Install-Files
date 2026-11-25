@@ -1,0 +1,40 @@
+{
+    "release":  "large-files",
+    "files":  [
+                  {
+                      "path":  "Java/Java_17/jdk-17.0.21.1_windows-x64_bin.exe",
+                      "asset":  "5993345a7faf-jdk-17.0.21.1_windows-x64_bin.exe",
+                      "assetId":  790319011,
+                      "size":  164748464,
+                      "sha256":  "5993345a7faf4482dec1239da99188c12eaeb30ca0ffbcfc9707dff1534bfcc2"
+                  },
+                  {
+                      "path":  "SqlServer/SqlServer2025/Express_ENU/1033_ENU_LP/x64/Setup/x64/SQLLOCALDB.MSI",
+                      "asset":  "c8cf7455b79f-SQLLOCALDB.MSI",
+                      "assetId":  790319784,
+                      "size":  68452352,
+                      "sha256":  "c8cf7455b79f4018c895098392bb80c2b5cba0d1e3ecfa22dd6fad7873894561"
+                  },
+                  {
+                      "path":  "SqlServer/SqlServer2025/Express_ENU/x64/Setup/SQL_ENGINE_CORE_INST.MSI",
+                      "asset":  "f43de7cd4f78-SQL_ENGINE_CORE_INST.MSI",
+                      "assetId":  790319998,
+                      "size":  138838016,
+                      "sha256":  "f43de7cd4f78e8e036e2fd3042b8208fa1f244b45a0bcc1d2a8c7210f8739f33"
+                  },
+                  {
+                      "path":  "SqlServer/SqlServer2025/Express_ENU/x64/Setup/SQL_FULLTEXT.MSI",
+                      "asset":  "4fb8c73bcfcc-SQL_FULLTEXT.MSI",
+                      "assetId":  790320491,
+                      "size":  325263360,
+                      "sha256":  "4fb8c73bcfcc648d05d0c8b04703d17994ccc7c91c2787bfc1470332938378b7"
+                  },
+                  {
+                      "path":  "SqlServer/SqlServer2025/Express_ENU/x64/Setup/SQL_POLYBASE_CORE_INST.MSI",
+                      "asset":  "52f03157dbb6-SQL_POLYBASE_CORE_INST.MSI",
+                      "assetId":  790321825,
+                      "size":  89583616,
+                      "sha256":  "52f03157dbb6b4a0c6839db81a749efdee40a10299e58e2eda5044755b698251"
+                  }
+              ]
+}
